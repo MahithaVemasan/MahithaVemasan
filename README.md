@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MahithaVemasan
+- 👀 I’m interested in solving complex problems and provide the solutions.
+- 🌱 I’m currently learning text mining analysis, big data, data analysis for engineering managers
+- 💞️ I’m looking to collaborate on innovation, analysis and product development in various applications.
+- 📫 Reach me via email mahithavemasani.1115@gmail.com
